@@ -1,32 +1,32 @@
-# Streaming Content Strategy Analytics
+# 🎬 Streaming Content Strategy Analytics
 
 ## 📊 Project Overview
 
-This project analyzes **user behavior, content performance, and platform engagement** for a streaming service similar to Netflix.
-The goal is to identify **popular content, user engagement trends, and business insights** that can help improve streaming platform strategy.
+This project analyzes **user engagement, content performance, and platform usage patterns** for a streaming platform similar to Netflix.
+The goal is to uncover **content trends, user behavior insights, and business recommendations** that can help improve streaming strategy and user retention.
 
-The analysis is performed using **Python, SQL, Excel, and Power BI**.
+The project demonstrates a **complete Data Analytics workflow** using **Excel, Python, SQL, and Power BI**.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* **Python** – Data cleaning, feature engineering, and exploratory data analysis
-* **SQL** – Business queries and analytical insights
 * **Excel** – Dataset generation and structured data storage
-* **Power BI** – Interactive dashboard creation and visualization
+* **Python (Pandas, Matplotlib, Seaborn)** – Data cleaning, feature engineering, and exploratory data analysis
+* **SQL** – Data modeling and analytical queries
+* **Power BI** – Interactive dashboards and data visualization
 
 ---
 
-## 📂 Dataset Information
+## 📂 Dataset Overview
 
-| Dataset              | Description                            |
-| -------------------- | -------------------------------------- |
-| content_library.xlsx | Streaming content metadata             |
-| users.xlsx           | User demographic and subscription data |
-| watch_history.xlsx   | User watch activity and engagement     |
+| Dataset                | Description                            |
+| ---------------------- | -------------------------------------- |
+| `content_library.xlsx` | Metadata for streaming content         |
+| `users.xlsx`           | User demographic and subscription data |
+| `watch_history.xlsx`   | User watch activity and engagement     |
 
-Dataset Size:
+### Dataset Size
 
 * **Users:** 2000
 * **Content Titles:** 7800+
@@ -59,11 +59,11 @@ Power BI Interactive Dashboard
 
 ## 📈 Key Business Insights
 
-* **Movies account for ~68% of total watch time**, indicating stronger user preference.
-* **International and Drama genres** generate the highest engagement.
-* **Mobile and TV devices** dominate platform consumption.
-* **Australia and Canada** show higher user watch activity compared to other regions.
-* Monthly user engagement shows **seasonal spikes in streaming activity**.
+* **Movies account for ~68% of total watch time**, showing higher user preference compared to TV shows.
+* **International and Drama genres** dominate streaming engagement across regions.
+* **Mobile and TV devices** contribute the majority of platform watch time.
+* **Australia and Canada** show the highest user engagement.
+* Monthly streaming activity reveals **seasonal spikes in user activity**.
 
 ---
 
@@ -71,20 +71,20 @@ Power BI Interactive Dashboard
 
 * Increase investment in **movie content acquisition**.
 * Promote **high-performing genres** like Drama and International.
-* Target marketing campaigns in **high-engagement countries**.
-* Optimize streaming experience for **mobile and TV users**.
+* Target marketing campaigns in **high engagement countries**.
+* Optimize platform experience for **mobile and TV users**.
 
 ---
 
 ## 📊 Power BI Dashboard
 
-The Power BI dashboard includes:
+The interactive Power BI dashboard includes:
 
-* Streaming Platform Overview
-* Content Performance Analysis
-* User Behavior Insights
-* Platform Insights Dashboard
-* Project Insights & Recommendations
+* **Streaming Platform Overview**
+* **Content Performance Analytics**
+* **User Behavior Analytics**
+* **Platform Insights Dashboard**
+* **Project Insights & Recommendations**
 
 ---
 
@@ -93,9 +93,15 @@ The Power BI dashboard includes:
 ```
 streaming-content-strategy-analytics
 │
+├── dashboards
+│   └── dashboard_preview.png
+│
 ├── data
 │   ├── raw_data
 │   └── cleaned_data
+│
+├── powerbi
+│   └── streaming_dashboard.pbix
 │
 ├── python
 │   ├── generate_datasets.py
@@ -103,19 +109,13 @@ streaming-content-strategy-analytics
 │   ├── eda_analysis.ipynb
 │   └── feature_engineering.py
 │
-├── sql
-│   ├── database_schema.sql
-│   └── analysis_queries.sql
-│
-├── powerbi
-│   └── streaming_dashboard.pbix
-│
-├── dashboards
-│   └── dashboard_preview.png
-│
 ├── reports
 │   ├── business_insights.pdf
 │   └── project_summary.md
+│
+├── sql
+│   ├── database_schema.sql
+│   └── analysis_queries.sql
 │
 └── README.md
 ```
@@ -124,15 +124,11 @@ streaming-content-strategy-analytics
 
 ## 🚀 Conclusion
 
-This project demonstrates a **complete data analytics workflow** including:
+This project demonstrates how **data analytics can help streaming platforms improve content strategy and user engagement**.
+By combining **data engineering, analysis, and visualization**, the project provides actionable insights that can support **data-driven business decisions**.
 
-* Data generation and preparation
-* Data cleaning and transformation
-* Exploratory data analysis
-* SQL-based business insights
-* Interactive dashboard development
+---
 
-The project highlights how data analytics can help **streaming platforms improve content strategy and user engagement**.
+## ⭐ Author
 
-
-
+**Abhishek Hiwarkar **

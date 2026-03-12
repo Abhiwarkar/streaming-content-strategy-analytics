@@ -39,6 +39,7 @@ Dataset Size:
 ## 🔄 Project Workflow
 
 Raw Data (CSV / Excel)
+
 ↓
 Data Cleaning (Python)
 
@@ -50,8 +51,8 @@ Exploratory Data Analysis
 
 ↓
 SQL Business Analysis
-↓
 
+↓
 Power BI Interactive Dashboard
 
 ---
@@ -132,5 +133,6 @@ This project demonstrates a **complete data analytics workflow** including:
 * Interactive dashboard development
 
 The project highlights how data analytics can help **streaming platforms improve content strategy and user engagement**.
+
 
 

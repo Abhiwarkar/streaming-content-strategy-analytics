@@ -101,7 +101,8 @@ The interactive Power BI dashboard includes:
 ![Platform](dashboards/platform_insights.png)
 
 ### Project Insights
-![Insights](dashboards/Projects Insights And Recommendations.png)
+
+![Insights](dashboards/project_insights.png)
 ---
 
 ## 📁 Project Folder Structure
@@ -148,5 +149,6 @@ By combining **data engineering, analysis, and visualization**, the project prov
 ## ⭐ Author
 
 **Abhishek Hiwarkar **
+
 
 

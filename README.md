@@ -39,12 +39,16 @@ Dataset Size:
 ## 🔄 Project Workflow
 
 Raw Data (CSV / Excel)
+
 ↓
 Data Cleaning (Python)
+
 ↓
 Feature Engineering
+
 ↓
 Exploratory Data Analysis
+
 ↓
 SQL Business Analysis
 ↓
@@ -128,3 +132,4 @@ This project demonstrates a **complete data analytics workflow** including:
 * Interactive dashboard development
 
 The project highlights how data analytics can help **streaming platforms improve content strategy and user engagement**.
+

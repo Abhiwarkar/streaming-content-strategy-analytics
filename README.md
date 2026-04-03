@@ -82,6 +82,32 @@ The Power BI dashboard includes:
 * Project Insights & Recommendations
 
 ---
+---
+
+## 📸 Dashboard Preview
+
+### 🔹 Overview Dashboard
+![Overview](dashboards/overview_dashboard.png)
+
+---
+
+### 🔹 Content Performance
+![Content](dashboards/content_performance.png)
+
+---
+
+### 🔹 User Behavior
+![User](dashboards/user_behavior.png)
+
+---
+
+### 🔹 Platform Insights
+![Platform](dashboards/platform_insights.png)
+
+---
+
+### 🔹 Project Insights
+![Insights](dashboards/project_insights.png)
 
 ## 📁 Project Folder Structure
 
